@@ -27,11 +27,21 @@ The primary goal of this end-to-end capstone project is to analyze UPI transacti
 **Executive Dashboard**
 KPI cards for Total Transactions, Avg. Transaction Amount, Failure Rate, Fraud Rate, and Top Device, alongside a monthly transaction trend line, transaction-type donut chart, and region/device/merchant comparisons. Filters: Region, Device Type, Merchant Type, Status, Time Period.
 
+<img width="530" height="335" alt="Executive Dashboard" src="https://github.com/user-attachments/assets/fa8d83a1-a457-49cc-bc2d-94e60b434ffa" />
+
+
+
 **Fraud & Operations Analyst Dashboard**
 KPI cards for Total Alerts, Open Alerts, Fraud Rate, Avg. Resolution Time, and Alerts Resolved %, with a fraud alert trend line, root-cause breakdown, resolution-time analysis, and a rooted vs. non-rooted device fraud comparison table.
 
+<img width="497" height="336" alt="Operations and Fraud Analyst Dashboard" src="https://github.com/user-attachments/assets/258b06ec-7b60-497e-9649-4eb9b3acceac" />
+
+
 **Alert Details**
 A drill-through page for investigating individual fraud alerts in depth.
+
+<img width="467" height="324" alt="Alert Details drill-through" src="https://github.com/user-attachments/assets/c3fcbbd6-2965-4e0c-bcbe-2114a6dbb80b" />
+
 
 ---
 **Author:** Aastha Maurya · Data Analytics with GenAI — Capstone Project
